@@ -17,7 +17,7 @@ Completed:
 Notes:
 This only works for iPhone 5 or above in Portrait orientation.
 
-![Video Walkthrough](anim_tip_calculator.gif)
+![Video Walkthrough](TipsCalculator1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
