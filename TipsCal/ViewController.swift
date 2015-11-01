@@ -208,19 +208,6 @@ class ViewController: UIViewController {
             
         }
     }
-    
-    func initTip(){
-        vTipWrapper.hidden = true
-        vTipRatioWrapper.hidden = true
-        var fBillY: CGFloat! = 0
-        //get keyboard frame
-        if rKeyboardFrame != nil {
-            fBillY = ((rParentRec.height - rKeyboardFrame.height)/2) - (rBillTextFieldRec.height/2)
-        }
-        
-        //move bill text field to middle
-        txtBillAmount.frame = CGRectMake(rBillTextFieldRec.origin.x, fBillY, rBillTextFieldRec.width, rBillTextFieldRec.height)
-    }
 
     func updateAllAmount(){
         //recalculate tip amount and total amount
