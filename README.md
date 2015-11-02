@@ -1,6 +1,6 @@
 # TipsCalculator
 
-This is a Tip Calculator application for iOS submitted as the [pre-work](http://courses.coderschool.vn/prework) requirement for CodePath.
+This is a Tip Calculator application for iOS submitted as the [pre-work](http://courses.coderschool.vn/prework) requirement for [coderschool.vn iOS Bootcamp].
 
 Time spent: 12 hours
 
