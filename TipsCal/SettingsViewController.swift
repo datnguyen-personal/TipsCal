@@ -70,7 +70,8 @@ class SettingsViewController: UIViewController {
     }
     
     @IBAction func BackButtonClicked(sender: AnyObject) {
-        dismissViewControllerAnimated(true, completion: nil)
+        dismissViewControllerAnimated(false, completion: nil)
+        //navigationController?.popViewControllerAnimated(true)
     }
     
     func changeSettingThemeColor(){
